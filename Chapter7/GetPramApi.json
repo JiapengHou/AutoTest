@@ -1,0 +1,19 @@
+[
+{"description":"这是带参数的get请求",
+  "request":{
+    "uri":"/getwithparam",
+  "method":"get",
+  "queries": {
+    "name":"huhansan",
+    "age": "18"
+  }
+},
+
+  "response":{
+    "status":200,
+  "text":"haha, i'm coming,哈哈哈。。。",
+    "headers":{
+      "Content-Type":"text/html;charset=gbk"
+    }
+}}
+]
