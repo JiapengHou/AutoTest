@@ -1,0 +1,44 @@
+[
+  {
+    "description":"带header请求",
+    "request": {
+      "uri": "/withHeader",
+      "method": "post",
+      "headers":{
+        "content-type":"application/json"
+      },
+
+      "json": {
+        "name": "xiaoming",
+        "age": "18"
+      }
+    },
+      "response":{
+        "json":{
+          "message":"success",
+          "status":"1"
+        }
+      }
+    },
+  {
+    "description":"这是一个带cookies的Post请求",
+    "request":{
+      "uri":"/postDemoWithCookies",
+      "method":"post",
+      "cookies":{
+        "login":"true"
+      },
+      "json":{
+        "name":"hi",
+        "age":"3"
+      }
+    },
+    "response":{
+      "status":"200",
+      "json":{
+        "name":"success",
+        "status":"1"
+      }
+    }
+  }
+]

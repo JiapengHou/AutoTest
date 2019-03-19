@@ -1,0 +1,47 @@
+[
+  {
+    "description":"带json参数的post请求。。",
+    "request":{
+      "uri":"/postwithparamjson",
+      "method":"post",
+      "headers": {
+        "content-type": "application/json"
+      },
+      "json":{
+        "name":"liuming",
+        "age":"20"
+      }
+    },
+    "response":{
+      "status":"200",
+      "json":{
+        "message":"success",
+        "status":"1"
+      }
+    }
+  },
+  {
+    "description":"这是一个带cookie的post请求",
+    "request":{
+      "uri":"/postwithcookies",
+      "method":"post",
+      "cookies":{
+        "login":"true"
+      },
+      "json":{
+        "name":"hi",
+        "age":"2"
+      }
+    },
+    "response":{
+      "status":"200",
+      "headers":{
+        "content-type":"charset=gbk"
+      },
+      "json":{
+        "message":"success please continue.. 哈哈。。",
+        "status":"1"
+      }
+    }
+  }
+]

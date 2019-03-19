@@ -1,24 +1,16 @@
 [
   {
     "description":"这是一个带参数的post请求。。",
-    "request":{
-      "uri":"/postwithparam",
-      "method":"post"
+    "request": {
+      "uri": "/postwithparam",
+      "method": "post",
+      "forms": {
+        "name": "zhangsan",
+        "age": "18"
+       }
     },
-    "json":{
-      "name":"zhangsan",
-      "age":"18"
-    }
-  },
-  "response":
-  {
-    "status": 200,
-    "json": {
-      "zhangsan": "success,hha ",
-      "status": 1
-    },
-    "headers": {
-      "Content-Typr": "text/html;charset=gbk"
+    "response": {
+      "text":"this is post request with param"
     }
   }
 ]
