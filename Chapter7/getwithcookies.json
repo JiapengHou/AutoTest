@@ -1,0 +1,21 @@
+[
+  {
+    "description":"get请求带cookies...",
+    "request":{
+      "uri":"/getwithcookies",
+      "method":"get",
+      "headers":{
+        "content-type":"application/json"
+      },
+      "cookies":{
+        "login":"true"
+      }
+    },
+    "response":{
+      "json":{
+        "username":"monkey",
+        "tel":"123456"
+      }
+    }
+  }
+]

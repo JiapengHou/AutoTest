@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="baa490e2-2f93-47e4-9de6-0fdcf460ac5f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Chapter7/getwithcookies.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter7/posttestprac.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter7/postwithparamjson.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter7/postwithparam.json" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter7/postwithparam.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter7/getwithcookies.json" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter7/getwithcookies.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/Chapter/target/" />
     <ignored path="$PROJECT_DIR$/Chapter5/target/" />
@@ -72,7 +69,7 @@
           <entry key="MultThreadonXml" value="436" />
           <entry key="java" value="2786" />
           <entry key="jsom" value="29" />
-          <entry key="json" value="1573" />
+          <entry key="json" value="1840" />
           <entry key="xml" value="984" />
           <entry key="基本操作说明" value="85" />
         </counts>
@@ -80,7 +77,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JAVA" value="2786" />
-          <entry key="JSON" value="1573" />
+          <entry key="JSON" value="1840" />
           <entry key="PLAIN_TEXT" value="114" />
           <entry key="XML" value="1420" />
         </counts>
@@ -118,7 +115,11 @@
       </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Chapter7/getwithcookies.json">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="17" column="7" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -184,6 +185,7 @@
         <option value="$PROJECT_DIR$/Chapter7/postwithparam.json" />
         <option value="$PROJECT_DIR$/Chapter7/posttestprac.json" />
         <option value="$PROJECT_DIR$/Chapter7/postwithparamjson.json" />
+        <option value="$PROJECT_DIR$/Chapter7/getwithcookies.json" />
       </list>
     </option>
   </component>
@@ -201,8 +203,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="2830" />
-    <option name="y" value="33" />
+    <option name="x" value="2574" />
+    <option name="y" value="4" />
     <option name="width" value="1074" />
     <option name="height" value="959" />
   </component>
@@ -247,7 +249,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552965351409" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552972651633" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -379,7 +381,7 @@
       <workItem from="1552872770072" duration="4184000" />
       <workItem from="1552885744174" duration="2659000" />
       <workItem from="1552892406751" duration="17096000" />
-      <workItem from="1552959453315" duration="5795000" />
+      <workItem from="1552959453315" duration="8923000" />
     </task>
     <servers />
   </component>
@@ -416,7 +418,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="60485000" />
+    <option name="totallyTimeSpent" value="63613000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -428,10 +430,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="2830" y="33" width="1074" height="959" extended-state="0" />
+    <frame x="2574" y="4" width="1074" height="959" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3057199" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3057199" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -447,7 +449,7 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32969698" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32969698" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" x="1952" y="710" width="1101" height="272" id="Terminal" order="9" visible="true" weight="0.32969698" />
+      <window_info active="true" anchor="bottom" x="1952" y="710" width="1101" height="272" id="Terminal" order="9" visible="true" weight="0.32969698" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32848486" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -707,7 +709,11 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Chapter7/getwithcookies.json">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="7" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">
