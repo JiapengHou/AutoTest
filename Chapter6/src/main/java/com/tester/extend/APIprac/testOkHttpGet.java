@@ -43,6 +43,6 @@ public class testOkHttpGet {
         }
     }
     public static void main(String[] args){
-        interfaceUtil("https://capi.gshopper.com/v1/product/80032966","");
+        interfaceUtil("","");
     }
 }
